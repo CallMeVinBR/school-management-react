@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+table, td, th {
+  border: 1px solid black;
+  border-collapse: separate;
+}
+
+table > caption {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+table {
+  margin-left: 1em;
+  margin-right: 1em;
+  max-width: fit-content;
+  max-height: 50dvh;
+  display: block;
+  overflow: auto;
+}
+
+td {
+  padding: 5px;
+  width: fit-content;
+}
+
+th {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+td#button {
+  min-width: unset;
+  width: fit-content;
+}
+
+td#small {
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #f1bc5848;
+}
