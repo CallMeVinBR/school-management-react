@@ -29,3 +29,4 @@ Previously, I had never used React that much, being a beginner at it. With this 
 
 > [!NOTE]
 > I wish I could also make a responsive design, but due to the lack of time remaining, I couldn't work on it properly.
+> I chose to make all data management in `localStorage` because I sought knowledge regarding React. It'd be a proper approach to use an API to handle data directly from the files.
