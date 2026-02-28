@@ -1,5 +1,5 @@
 # school-management-react
-React project I developed to take on a technical test for an Internship opportunity, at Evolucional.
+React project I developed in 7 days to take on a technical test for an Internship opportunity, at Evolucional.
 
 > [!TIP]
 > The file `autoStart.bat` has the script needed to start the project properly, in case you're in need of orientation!
