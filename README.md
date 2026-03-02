@@ -5,7 +5,7 @@ React project I developed in 7 days to take on a technical test for an Internshi
 > The file `autoStart.bat` has the script needed to start the project properly, in case you're in need of orientation!
 
 # What is this project about?
-This project takes on a JSON database, located in the directory `data`, and manages data using `localStorage` and states in React.
+This project takes on a JSON database, located in the directory `src/data`, and manages data using `localStorage` and states in React.
 <p>I had 7 days to build such system, with a language I'm not that experienced, but even so I managed to learn a lot by doing my best.</p>
 
 <p>My objective was to make a system where the user could:</p>
